@@ -6,17 +6,12 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 ### More about me
 - 🔭 I’m currently working on [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization)
 - 🌱 I’m interested in Controls and Planning of Legged Robot System
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs)
 
 
 
 ### 📫 Where to find me
-- [Gmail](mailto:adityawadchar85@gmail.com) 💌
+- [Gmail](mailto:adityawadchar85@gmail.com) 📩
 - [LinkedIn](https://www.linkedin.com/in/aditya-wadichar-87abb4190/) 👨💼
 - [Google Scholer](https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ) 😄
 - [Facebook](https://www.facebook.com/aditya.wadichar.9) 😏
