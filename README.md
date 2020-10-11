@@ -6,7 +6,7 @@
 I am junior year undergraduate student of Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/). I am also core member of [IvLabs- The Robotics and AI community of VNIT](https://www.ivlabs.in/).
 
  **More about me**
-- 🔭 I’m currently working on [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization)
+🔭 I’m currently working on [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization)
 - 🌱 I’m interested in Controls and Planning of Legged Robot System
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
