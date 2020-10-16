@@ -13,8 +13,8 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 ### 📫 Where to find me
 - [Gmail](mailto:adityawadchar85@gmail.com) 📩
 - [LinkedIn](https://www.linkedin.com/in/aditya-wadichar-87abb4190/) 👨💼
-- [Google Scholer](https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ) 😄
-- [Facebook](https://www.facebook.com/aditya.wadichar.9) 😏
+- [Google Scholer](https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ) 👨‍🎓
+- [Facebook](https://www.facebook.com/aditya.wadichar.9) 😁
 - [Instagram](https://www.instagram.com/aditya_wadichar/) 😎
 
 
