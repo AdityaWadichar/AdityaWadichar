@@ -4,8 +4,9 @@
 I am junior year undergraduate student of Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/). I am also core member of [IvLabs- The Robotics and AI community of VNIT](https://www.ivlabs.in/).
 
 ### More about me
-- 🔭 I’m currently working on [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization)
-- 🌱 I’m interested in Controls and Planning of Legged Robot System
+- 🔭 I’m currently working on Reconfigurable Qudrapudal Bipedal Snake Robot 2.0
+- 🌱 My major projects are [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization) and [Suntracker On Rocker-Bogie Mechanism](https://github.com/AdityaWadichar/Suntracker-on-mobile-robot)
+- 😄 I’m interested in Controls and Planning of Legged Robot System
 - ⚡ Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs)
 
 
@@ -16,6 +17,7 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 - [Google Scholer](https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ) 👨‍🎓
 - [Facebook](https://www.facebook.com/aditya.wadichar.9) 😁
 - [Instagram](https://www.instagram.com/aditya_wadichar/) 😎
+- [Youtube](https://www.youtube.com/channel/UCkXz6roBNGBK4hhm68F7wfw)
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)
