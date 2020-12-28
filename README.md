@@ -17,7 +17,7 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 - [Google Scholer](https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ) 👨‍🎓
 - [Facebook](https://www.facebook.com/aditya.wadichar.9) 😁
 - [Instagram](https://www.instagram.com/aditya_wadichar/) 😎
-- [Youtube](https://www.youtube.com/channel/UCkXz6roBNGBK4hhm68F7wfw)
+- [Youtube](https://www.youtube.com/channel/UCkXz6roBNGBK4hhm68F7wfw) 💥
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)
