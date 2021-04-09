@@ -39,5 +39,5 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)<img align="left">
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWadichar&layout=compact)
