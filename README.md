@@ -31,7 +31,7 @@ I am junior year undergraduate student of Electronics and Communication Engineer
   <img align="left" alt="Whatsapp" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/aditya_wadichar/">
-  <img align="left" alt="Instagram" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=ZLE44k87&id=4704CCEC67B1B745FF91E20E32D613872CEC88D7&thid=OIP.ZLE44k87Gp4CtVdS0zkDpwHaHa&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fe%2fe7%2fInstagram_logo_2016.svg%2f1200px-Instagram_logo_2016.svg.png&exph=1200&expw=1200&q=instagarm+logo&simid=608009039520364909&ck=0950D9CF373718850432BF1C7E19D9E9&selectedIndex=1&FORM=IRPRST&ajaxhist=0" />
+  <img align="left" alt="Instagram" width="26px" src="https://www.iconfinder.com/icons/1298747/instagram_brand_logo_social_media_icon" />
 </a>
 <a target="_blank" href="https://www.facebook.com/aditya.wadichar.9">
   <img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />
