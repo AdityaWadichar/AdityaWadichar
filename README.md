@@ -1,5 +1,5 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrutii07" alt="Shrutii07" /> </p>
 
 I am junior year undergraduate student of Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/). I am also core member of [IvLabs- The Robotics and AI community of VNIT](https://www.ivlabs.in/).
 
