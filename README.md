@@ -15,14 +15,14 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 
 ### Connect with me
 
+<a target="_blank" href="mailto:adityawadchar85@gmail.com">
+  <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
+</a>
 <a target="_blank" href="https://www.linkedin.com/in/aditya-wadichar-87abb4190/">
   <img align="left" alt="LinkdeIN" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ">
   <img align="left" alt="GoogleScholar" width="26px" src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" />
-</a>
-<a target="_blank" href="mailto:adityawadchar85@gmail.com">
-  <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
 <a target="_blank" href="https://www.youtube.com/channel/UCkXz6roBNGBK4hhm68F7wfw">
   <img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
