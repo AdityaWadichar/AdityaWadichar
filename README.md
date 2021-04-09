@@ -27,7 +27,7 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 <a target="_blank" href="https://www.youtube.com/channel/UCkXz6roBNGBK4hhm68F7wfw">
   <img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=7775016436">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=917775016436">
   <img align="left" alt="Whatsapp" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/aditya_wadichar/">
