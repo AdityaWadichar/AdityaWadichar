@@ -10,8 +10,10 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 - ⚡ Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs)
 
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWadichar&layout=compact)
 
-### 📫 Where to find me
+### Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/aditya-wadichar-87abb4190/">
   <img align="left" alt="LinkdeIN" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
@@ -39,5 +41,3 @@ I am junior year undergraduate student of Electronics and Communication Engineer
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)<img align="left">
-![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWadichar&layout=compact)
