@@ -1,8 +1,10 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrutii07" alt="Shrutii07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaWadichar" alt="AdityaWadichar" /> </p>
 
 I am junior year undergraduate student of Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/). I am also core member of [IvLabs- The Robotics and AI community of VNIT](https://www.ivlabs.in/).
 
+  <img align="right" alt="GIF" src="https://vault8.io/57725af3d3c44f9992d2edb2c96e.gif/autoorient,resize_fit-1920-1080/Man_Working_at_his_Desk_GIF_Animation_Loop.gif?p=0aa930d138b25b338ee16fe&s=12e8a8cda0a757e148be934dde3e820de938663a" width="500" height="320" />
+  
 ### More about me
 - 🔭 I’m currently working on Reconfigurable Qudrapudal Bipedal Snake Robot 2.0
 - 🌱 My major projects are [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization) and [Suntracker On Rocker-Bogie Mechanism](https://github.com/AdityaWadichar/Suntracker-on-mobile-robot)
