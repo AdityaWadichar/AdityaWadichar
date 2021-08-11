@@ -3,7 +3,7 @@
 
 I am junior year undergraduate student of Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/). I am also core member of [IvLabs- The Robotics and AI community of VNIT](https://www.ivlabs.in/).
 
-  <img align="right" alt="GIF" src="https://vault8.io/57725af3d3c44f9992d2edb2c96e.gif/autoorient,resize_fit-1920-1080/Man_Working_at_his_Desk_GIF_Animation_Loop.gif?p=0aa930d138b25b338ee16fe&s=12e8a8cda0a757e148be934dde3e820de938663a" width="437" height="400" />
+  <img align="right" alt="GIF" src="https://vault8.io/57725af3d3c44f9992d2edb2c96e.gif/autoorient,resize_fit-1920-1080/Man_Working_at_his_Desk_GIF_Animation_Loop.gif?p=0aa930d138b25b338ee16fe&s=12e8a8cda0a757e148be934dde3e820de938663a" width="387" height="350" />
   
 ### More about me
 - 🔭 I’m currently working on Reconfigurable Qudrapudal Bipedal Snake Robot 2.0
