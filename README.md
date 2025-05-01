@@ -12,7 +12,7 @@ I am Data Scientist at Optum. I have completed graduation in Electronics and Com
 - ⚡ Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)
+<!--![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)-->
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWadichar&layout=compact)
 
 ### Connect with me
