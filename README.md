@@ -6,10 +6,11 @@ I am Data Scientist at Optum. I have completed graduation in Electronics and Com
   <img align="right" alt="GIF" src="https://vault8.io/57725af3d3c44f9992d2edb2c96e.gif/autoorient,resize_fit-1920-1080/Man_Working_at_his_Desk_GIF_Animation_Loop.gif?p=0aa930d138b25b338ee16fe&s=12e8a8cda0a757e148be934dde3e820de938663a" width="387" height="350" />
   
 ### More about me
-- 🔭 I’m currently working at [Optum Global Solutions](https://www.optum.in/)
-- 🌱 My major projects are [CAP Phase Detection](https://github.com/Shrutii07/CAP-Phase-Detection), [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization) and [Suntracker On Rocker-Bogie Mechanism](https://github.com/AdityaWadichar/Suntracker-on-mobile-robot)
-- 😄 I’m interested in Machine Learning, Deep Learning, Neural Networks.
-- ⚡ Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs)
+- I’m currently working at [Optum Global Solutions](https://www.optum.in/)
+- My major projects are [CAP Phase Detection](https://github.com/Shrutii07/CAP-Phase-Detection), [Gait and Trajectory Optimization of Bipeds](https://github.com/IvLabs/biped_trajectory_optimization) and [Suntracker On Rocker-Bogie Mechanism](https://github.com/AdityaWadichar/Suntracker-on-mobile-robot)
+- I’m interested in Deep Learning, NLP, GenAI.
+- Check out my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=80O_BLEAAAAJ)
+- Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs)
 
 
 <!--![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaWadichar&show_icons=true)-->
